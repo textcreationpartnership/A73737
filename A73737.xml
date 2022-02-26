@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvonders of the ayre, the trembling of the earth and the warnings of the world before the Iudgement day. Written by Thomas Churchyard esquire, seruant to the Queens Maiestie.</title>
+            <author>Churchyard, Thomas, 1520?-1604.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1602</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73737</idno>
+            <idno type="STC">STC 5260.5</idno>
+            <idno type="STC">ESTC S124798</idno>
+            <idno type="EEBO-CITATION">99900450</idno>
+            <idno type="PROQUEST">99900450</idno>
+            <idno type="VID">173205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2022:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvonders of the ayre, the trembling of the earth and the warnings of the world before the Iudgement day. Written by Thomas Churchyard esquire, seruant to the Queens Maiestie.</title>
+                  <author>Churchyard, Thomas, 1520?-1604.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Thomas Dawson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1602.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Judgment Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173205:1"/>
+            <pb facs="tcp:173205:1" rendition="simple:additions"/>
+            <p>THE VVONDERS OF THE <hi>AYRE,</hi> THE TREMBLING OF THE <hi>EARTH,</hi> And the warnings of the world before the Iudgement day.</p>
+            <p>
+               <hi>VVritten by Thomas Churchyard Eſquire, ſeruant to the</hi> Queenes Maieſtie.</p>
+            <p>Imprinted at London by <hi>Thomas Dawſon</hi> 1602.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173205:2"/>
+            <pb facs="tcp:173205:2"/>
+            <head>
+               <hi>To the right woorſhipfull M. D.</hi> Sezar maſter of the requeſts, maſter of <hi>S.</hi> Katherns, <hi>and iudge of the Admiraltie,</hi> Thomas Churchyard wi<g ref="char:EOLhyphen"/>ſheth great worſhip, wiſedome, and wealth, with the fauour <hi>of Prince, and good people, ioyned to ſuch a vertuous life</hi> as alwayes waites for heauenly faelicity.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the light of my life, (and candell of earthly com<g ref="char:EOLhyphen"/>fort) was almoſt burnd out, good M. Doctor <hi>Seazar,</hi> it was Gods will I ſhould addreſſe my ſelfe, and ſuite to our ſa<g ref="char:EOLhyphen"/>cred Soueraigne the mighty <hi>Caeſar</hi> of our world: who often times poured oyle into my waſting lamp, and finding in wants a wor<g ref="char:EOLhyphen"/>thy maiſter of requeſts, that would not ſuffer my dimme candell blaze to be blowne out, ſo for my benifit you brake with her Maieſtie, and brought from her gratious goodneſſe the little I liue vpon, and am likely to die withall, which kind curteſie of yours (voyd of all taking of money) drew my affe<g ref="char:EOLhyphen"/>ction and hart in a manner out of my bowels, and my inward ſpirits to be ſo farre in your dept, that I ſearched the beſt of my inuentions to the bottom, the ſhallownes whereof was ſo great, that I found but little of contentment, fit to preſent you withal: Than I bethought me of a tranſlation out of <hi>Plinie,</hi>
+               <pb facs="tcp:173205:3"/> 30. yeres agoe ſet downe in proſe by me, <hi>Of the won<g ref="char:EOLhyphen"/>ders of the ayre: Trembling of the earth, and warnings of the world,</hi> deſirous euery day to publiſh in print that ſimple tranſlation of mine, but long ſickneſſe held my good wil ſo far backe, that weake body ſaw no ſeaſon to ſerue my hope. In the mean while a great learned doctor called doctor <hi>Holland</hi> moſt learned<g ref="char:EOLhyphen"/>ly with great payne tranſlated all <hi>Plinies</hi> workes, I hearing thereof reioyced much, becauſe his torch would blaze ſo cleere, that the blindeſt ſight in the world ſhould thereby ſee where the ſweete kirnell lay, when the hard ſhelled nut was crackt and ope<g ref="char:EOLhyphen"/>ned ſo cunningly. So taking his gallant booke as a witnes of my labors (though I neuer read one line of his tranſlation) I boldly ſet foorth this worke of mine, hoping that you and the wiſe of the world, will accept and iudge as my paines and ſtudy may merit, in that truſt and confidence I preſent the pa<g ref="char:EOLhyphen"/>tronage of theſe paynes to your conſideration and approued wiſedome, confeſſing that neuer worke went from me with a greater good will nor leſſe flattery, God ſo knowes, who increaſe in you grace and goodnes with worldly worſhip, what your owne hart deſires.</p>
+            <closer>
+               <signed>Yours in all that he may at commandment <hi>Thomas Churchyard.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173205:3"/>
+            <head>The generall Epiſtle to the Readers.</head>
+            <l>COme gazing world whoſe reſtles mind wold ſee &amp; read each thing</l>
+            <l>And mark what wonders wit may find, that in this booke I bring,</l>
+            <l>Note now howe nature is beguild, and God the nature takes</l>
+            <l>Of euery wonder vnder Sunne, and thereof triumple makes:</l>
+            <l>Come ſearching heads that finely ſhifts, the groſeſt bran from flowre,</l>
+            <l>Who knows (through ſuttel ſleights of world) no more tha<g ref="char:cmbAbbrStroke">̄</g> naturs pour</l>
+            <l>And marke what maruels mighty God, with maieſtie doth ſhoe</l>
+            <l>Our ſimple age and careleſſe time, where lewde like learned goe:</l>
+            <l>Come you that liues like Epicures, and likes no world but this</l>
+            <l>And thinks when your bad life is gone, there is no other bliſſe,</l>
+            <l>And note another kind of cauſe, that can conſtraine vs all</l>
+            <l>In proſtrate maner humble wiſe, with face on floure to fall.</l>
+            <l>Come proudeſt peacoks in your plumes, with ruffling painted robes</l>
+            <l>Come you that lookes when ſtarres will fall, &amp; ſtaers on goodly globes</l>
+            <l>And veiw how ſtarrs and planets falls, and earthly cauſes too</l>
+            <l>If God when nature is at worſt, ſtrange things himſelfe will doo.</l>
+            <l>Come ſtubborne men that will not ſtoupe, at fearfull ſignes and ſhoes</l>
+            <l>Nor care for trembling of the earth, which wonders comes and goes,</l>
+            <l>By courſe of nature as ſome ſay, but therein make a pauſe</l>
+            <l>Though kind commands amaſſe of things, there is a greater cauſe</l>
+            <l>That moues the earth, &amp; ſhakes the world, wel worldlings come &amp; ſee</l>
+            <l>What wonders God hath wrought for men, that wiſe and thankful be,</l>
+            <l>And ſee what warnings God hath ſent, to thoſe he meanes to ſtricke</l>
+            <l>Preſerues the good wher fauour leads, &amp; plagues wher growes miſlike.</l>
+            <l>You ſtout ſtifnecked people proud, that ſtands on reaſons ground,</l>
+            <l>Come heere how farre paſt reaſons earth, in learned eares doth ſound,</l>
+            <l>Make faith a proofe of your hard harts, and ſo let nature guide</l>
+            <l>And you ſhall ſee who ſhootes aright, and when your ſhafts are wide:</l>
+            <pb facs="tcp:173205:4"/>
+            <l>If natures law and reaſons rules, might run with right away,</l>
+            <l>No place were left for God that rules, to rule and beare the ſwaie.</l>
+            <l>O wily wits and babling tonges, yeeld vp your reaſons lore</l>
+            <l>And folllow our great captaines ſteps, that marcheth ſtill before:</l>
+            <l>Who leaues them lagging far behind, that lookes not after grace,</l>
+            <l>And in their owne opinions dwell, with bold and ſhameleſſe face.</l>
+            <l>Come all the flocke of new found ſects, that ſwarmes to much this day,</l>
+            <l>And you ſhall ſee what glory great, Gods goodnes doth bewray.</l>
+            <l>Come Deitiſts and Athiſts all, bring brabling bookes and wordes</l>
+            <l>That you in bitter ſorte let fall, ſometime with ieſts and bords,</l>
+            <l>And ſee his mighty workes aboue, that rules all at his will,</l>
+            <l>Who makes earth ayre and waters moue, to make men muſe on ſtill.</l>
+            <l>Come cunning brains whoſe quick conceits, are ripe and in their prime</l>
+            <l>Come read ſtrange things that wonders are, beſtow therein ſome time.</l>
+            <l>Come ſouldiers that loues ſword &amp; fire, &amp; mark what wars God makes</l>
+            <l>With kings and kingdomes in his ire, when he the quarrell takes,</l>
+            <l>Come ſee the fall of mighty men, that many battayls won,</l>
+            <l>Yet dropt downe headlong now and then, as fatall chances run.</l>
+            <l>Come you that thinke you ſit ſo faſt, you can ne ſlip nor ſlide</l>
+            <l>And thinke by geſſe of wonders paſt, what you may iudge this tide:</l>
+            <l>Come hither high aſpiring mind, that hopes the cloudes to clime,</l>
+            <l>And by theſe warnings heere you find, reforme your ſelues in time:</l>
+            <l>Come you that pleaſe I ſay no more, my verſes ſo I ende</l>
+            <l>And craue that you with patience read, that I with paines haue pend.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173205:4"/>
+            <head>THE Wonders of the ayre, The trembling of the earth, And the warnings of the <hi>world before the iudgement day.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N the dangerous dayes, and</hi> ſorrowfull ſeaſon of Repentance, when people ought rather to fal to praier then diſputations, and the manifeſt workes of the almightie commands the conſci<g ref="char:EOLhyphen"/>ences of men to leaue of friuolous ar<g ref="char:EOLhyphen"/>guments and not to meddle too much with the height or deepe miſteries that paſſeth common capacitie, and the reach of weake iudgements, It is moſt neceſſarie towardes the honouring of God, and edifying of good men, that preachers ſhould pronounce meekeneſſe and mercy, and writers ſhould perſwade probable mat<g ref="char:EOLhyphen"/>ter, that may drawe buſie witts from curious queſtions, and quiet the wauering mindes of thoſe that are carryed away with euerie light wind and wordes full of vanitie: And though I ſeeme but ſlen<g ref="char:EOLhyphen"/>derly learned (hauing a good deuotion to doe well) beſtowe ſome ſmall talent to Gods great glory, I truſt thoſe labours ſhall purchaſe as good acceptation, as the large volumes that are ſtuffed with darke ſentences, and polliſhed with racked reaſons, but woe is mee that am deſtitute of knowledge, voyde of cunning, and vtter<g ref="char:EOLhyphen"/>ly vnfurniſhed of eloquence, that nowe haue thruſt my ſelfe into alaborinth, and heere am taking in hand to run a further courſe then my wonted cuſtome heretofore hath familiarly bin acquainted with<g ref="char:EOLhyphen"/>all, notwithſtanding the beſt is to be hoped (if I happe to ſtumble) that the path is plaine I walke in, and I preſume not to goe farre in mine
+<pb facs="tcp:173205:5"/> owne opinion, but will be ledde by the graueſt authours of truth, and moſt venerable diuines and Philoſophers, whoſe words and learning I will alleadge, and with whom the Readers muſt ſtriue and wraſtle if they meane to ſtruggle with any peece of the auncient Fathers re<g ref="char:EOLhyphen"/>ports and philoſophie. And for that in many an infinite number of cauſes (both depending on natures reaſon, and earthly operations) Wonders are to be talked off, and Earthquakes to be ſeene, I will expreſſe as well as I may, diuers thinges as they were done many hundred yeares agoe, and ſo ſet foorth ſuch wonderfull matters that happened in thoſe dayes, that the people at this preſent ſhall make a maruell off, and yet therein behold no other thing, but the mightie worke of the Lord, and maieſtie of our maker that is ſéene ſhining in his workemanſhip, and gloryed in his creatures.</p>
+            <p>Firſt and formoſt is meant by this diſcourſe to begin at the <hi>Won<g ref="char:EOLhyphen"/>ders of the ayre, and alterations of the heauens</hi> (which waxeth old as a garment) and ſo to come downe orderly to the <hi>Trembling of the earth and ſhaking of the world,</hi> declared onely in this little treatiſe to make the ignorant beleeue and acknowledge, that there is no other worker of wonders neither heere nor aboue (though many thinges are talked off) but the power of God and bleſſed hand of the Lord: who was ne<g ref="char:EOLhyphen"/>uer idle, but from the beginning of the world hath alwayes bin occu<g ref="char:EOLhyphen"/>pyed, either in one place or another, by a wonderfull maner both in the heauens and earth, to call his children to repentance and to ſhew himſelfe a mercifull Father, but there are ſome ſtubborne boyes (and I feare too great a number) of the kind and complexion of king Pha<g ref="char:EOLhyphen"/>raoh, whoſe heart was indurate, and who forgat correction as ſoone as the rod was taken from his ſhoulders and plagues from his peo<g ref="char:EOLhyphen"/>ple, now if ſuch complexions and corrupt natures (for want of good looking too) haue or would infect the ſound body and ſoule of thoſe that are eaſily tempted, and drawne to beléeue little that is true, and truſt much that is falſe and full of fayre ſemblances: To theſe and to none other (for the preſeruation of their good beliefe and purging of per<g ref="char:EOLhyphen"/>uerſe incredulitie) theſe preſent paynes are preſented partly, to ſhew in what partes theſe manifold wonders did fall, and plainely to ex<g ref="char:EOLhyphen"/>plaine what followed immediatly after, among thoſe nations where ſuch wonders happened.</p>
+            <p>It is found in the <hi>Annales</hi> that in the yeare when <hi>Marcus Acilius</hi> and <hi>Caius Porcius</hi> were Conſuls of <hi>Rome,</hi> there was openly to bee ſeene that from the inferiour region of the ayre did fall in manner of
+<pb facs="tcp:173205:5"/> rayne both bloud and milke, which as ſome affirme (albeit it was a ſtrange thing to behold) befell many times before ſome great alte<g ref="char:EOLhyphen"/>ration of the people and republicke, likewiſe in the yeere when <hi>Lu<g ref="char:EOLhyphen"/>cius Volumnius</hi> and <hi>Seruius Sulpicius</hi> were Conſuls of the ſame city, it did rayne perfit fleſh, the moſt part whereof was conſumed and eaten by the birdes of the ayre, and yet the reſt that did fall and re<g ref="char:EOLhyphen"/>mayne on the earth did not corrupt of a long ſeaſon: The very yéere before that <hi>Marcus Craſſus,</hi> or <hi>Raſilicata</hi> with his whole armie, which were Italian ſouldiers, of the countrey <hi>Lucania,</hi> was ouerthrowne by the <hi>Parthes</hi> a ſtrong nation that the <hi>Romans</hi> made warre vpon: It rayned iron in the maner of a ſpunge in the ſelfe ſame land where the Souldiers were leuied, whereupon their wiſe men and greate clarkes, by their Deuinations declared that the wounds and ſores of the heauens were to be feared, and that ſome ſort of people were in danger to receiue great hurt from the ſkies and angry Planets. In the yéere that <hi>Lucius Paulus</hi> and <hi>Marcellus</hi> were Conſuls, it did raine wol like ſpunges about the towne of <hi>Cariſſan</hi> (or <hi>Carino</hi>) and the next yéere following <hi>Titus Annius Milo</hi> a great perſonage was ſlaine in battell néere the aforeſayd towne of <hi>Cariſſan,</hi> you ſhall finde in the re<g ref="char:EOLhyphen"/>giſter of Senats that the ſame yéere that <hi>Milo</hi> was ſlayne in, it ray<g ref="char:EOLhyphen"/>ned bricke ſtones, as <hi>Milo</hi> was pleading a matter in the ſenate houſe, all which wonders ſpoken off wayed together, perſwades no little argument of the warnings and myraculous maner of the elements, that foreſheweth great matters to come, and preſageth many things worthy memorie.</p>
+            <p>It is ſayd, and truely to be prooued, that before and after the wars that the <hi>Zelanders</hi> had, with the <hi>Danes</hi> of <hi>Denmarke,</hi> There was to be hard in the ayre oftentimes a certaine ſound and clickening of har<g ref="char:EOLhyphen"/>neſſe, and the ſounde of many trumpets at that preſent inſtant was hard in the ſkyes: In the yéere of the third Conſulſhip of <hi>Marius,</hi> the people of <hi>Ameria</hi> (or <hi>Amelia</hi>) and <hi>Todi</hi> (or <hi>Tuderdani</hi>) in the townes of the Dutchie of <hi>Spoleto,</hi> did behold two great armies of men in the ſkies, the one power comming from the <hi>leuant,</hi> and the other from the <hi>occident,</hi> and thoſe that came from the <hi>occidentall</hi> were put to flight, and chaſed by the other partie, after both the armies had a long while béene in combate: and there fell out great thinges in the necke of this wonder, yea, the ſelfe ſam like matter happened in the ayre at <hi>Ramberg</hi> the yeere 1534. and at <hi>Wiſenburg</hi> the yeere of our Lord 1530. On which ſtrange veiw fell out bloudy wars in <hi>Iermanie</hi> and
+<pb facs="tcp:173205:6"/> other partes, both fearefull in proofe and pittifull to beholde. The Greeke authors as <hi>Plinie</hi> ſayeth doe affirme that the ſecond yeere of the 78. <hi>Olympiade, Anaxagoras Calzomenien,</hi> preſaged by his great knowledge, and told the proper day and houre when a mightie and monſtrous great ſtone ſhould fall from the heauens, which came to paſſe in the open and playne day, in the countrey of <hi>Thrace,</hi> which is along the floud <hi>Aegos,</hi> and in the time of this ſtone (as bigge as a tum<g ref="char:EOLhyphen"/>brell) fell from the ſkyes, a great commett was ſeene in the cloudes, and this commett endured blazing a long ſeaſon, as did of late a bla<g ref="char:EOLhyphen"/>zing ſtarre when the Queenes Maieſtie lay at <hi>Windſore,</hi> not long before the king of <hi>Portugall</hi> and all his armie (a ſorrowfull tayle to tel) was ouerthrowne in <hi>Barbarie</hi> by the hard aduenture of fortune, and force of the king of <hi>Feſſe.</hi> Then was another little ſtone that <hi>Ana<g ref="char:EOLhyphen"/>goras</hi> ſpoke off long before, it fell from the heauens (that nowe re<g ref="char:EOLhyphen"/>maines in the village of <hi>Abydo</hi>) which ſuperſtitious people holde in great reuerence, and another at <hi>Caſſandri</hi> a towne of <hi>Macedone</hi> (or <hi>Thrace</hi>) this ſtone for feare of the wrath of God (that in his anger might puniſh and ſodainly ſtricke) was ſolemlie carryed abroad and ſhewed to the people to daunt their pride, and bridle their follies: The raynbow which as many affirm is neuer ſeene by night, but al<g ref="char:EOLhyphen"/>wayes appeareth in cleere day, manifeſtly declareth that mightily Gods maieſtie worketh, and his mercifull dealings are to be maruei<g ref="char:EOLhyphen"/>louſly noted: For neuer as is to be read (by good authors) was ſéene more then two raynebowes at one time together in the ſkies, who ſhewes that a firme and conſtant courſe and ſigne ef Gods mercyes, with no alteration is planted perdurable where his people may be<g ref="char:EOLhyphen"/>hold it, ſometimes is to be ſeene (as <hi>Plinie</hi> maketh mention of) a ſcar<g ref="char:EOLhyphen"/>let colour, and a red ſanguine in the ſkyes, and ſundry other times is perceiued likewiſe that the ſkie ſeemes to open, and fire falleth downe from the ſame, (a thing prodigious and fearefull) which conſumeth all thinges that it toucheth or encounters, as it came to paſſe ſaieth <hi>Plinie</hi> the third yéere of the 107. <hi>Olympiade,</hi> at which ſeaſon King <hi>Philip</hi> of <hi>Macedonie</hi> obtayned by victorie the moſt parte of all Gréece, And truely ſaith <hi>Plinie</hi> I thinke that nature (which he calleth God) produceth thoſe thinges at certayne times determined by Gods ap<g ref="char:EOLhyphen"/>poyntment, as he worketh his other operations, and further ſayeth <hi>Plinie</hi> all the ſubtill imaginations of man, nor the inuentions of all humane ſpirits and iudgements, can render no good reaſon for the ſame, for there opinions thereof ſerueth for nothing, <hi>Plinie</hi> 27. For
+<pb facs="tcp:173205:6"/> theſe accidence celeſtiall haue alwayes ſignified ſome great calamitie to come, not that I thinke (ſayth he) that thoſe euils and calamities that happen are the cauſe of the blazing ſtarres or commetts, but I holde opinion ſayth he, that the ſame commetts are procreated and ſent for ſpeciall markes and ſignes, to know thereby what calamitie is likely to happen, und becauſe thoſe ſignes are marueilous rare and ſtrange, the reaſon of their nature is in a maner incomprehenſible, ſo that truely men may not ſpeake on them as they do on the order of the Planets, or on their ecclipſe, or on many other thinges re<g ref="char:EOLhyphen"/>marquable in the elements, looke good Reader how excellently that eathnicke <hi>Plinie</hi> hath ſpoken of the diuine maieſtie and doings of God (which he calleth nature) and note how he hath ſo cunningly handled the argument, that no one point or other may be reaſoned againſt, for this in it ſelfe confuteth all thinges to the contrarie, and explaneth ſuch ſecrets, that euery other naturall reaſon is by this put to ſilence, I haue ſeene (ſaieth <hi>Plinie</hi>) often in the night (an corps degard that made the ſentinell in the campe) néere the trenches, certayne lights of the maner of a ſtarre, which were as it were a ſlame tyed to the end of a ſouldiers picke, and on the Sea ſundry Marriners as they haue ſayled, haue ſeene the like lights hanging on the maſt, which lightes are a very euill ſigne to the Saylers, if they be but one of them ſéene at one time, for that preſageth ſhipwracke, or manifeſteth great miſ<g ref="char:EOLhyphen"/>chiefe, for ſometimes if the flame fall downe wardes, it burneth the veſſell, if two lights be ſeene, they bring goodneſſe and hope of happy fortune, and preſageth that the ſhip ſhall haue a good voyage, like<g ref="char:EOLhyphen"/>wiſe when theſe two happie lights ariueth, (the vnfortunate flame that commeth alwayes alone) that the Marriners calleth <hi>helene,</hi> vaniſheth out of veiw, yea ſometimes this light lighteth full vpon many mens heads about the euening, all which thinges ſaith <hi>Plinie</hi> neuer happen without great matter to follow them, the miſteries and knowledge thereof is reſerued onely to the maieſtie of God, (whom he nameth nature) who will hyde and locke vp the reaſons of thoſe cauſes in the cabine or ſacred chamber of his priuie ſecrets: Heere <hi>Plinie</hi> plainely expoundeth (though he were a Pagan) many ſecrete matters much to the purpoſe of mens good opinions, and greatly to the glory of God, and to proue that ſtrange lightes haue and are to be ſéene, I being in <hi>Garnſey</hi> (hauing charge vnder Syr <hi>Thomas Leighton</hi>) was ſearching of the watch in a place called caſtle Cornet, and there full on the toppe of a croſſe, I eſpyed this flaming
+<pb facs="tcp:173205:7"/> fire, before the face and veiw of diuers Souldiers, after the which ſight fell a very great tempeſt, and ſuch a kinde of a ſtorme, as the ſmall fiſhes in the Seas could not abide, for they were driuen to the ſhore ſo faſt, that little children and yong maydes wading but a foote deepe in the water, tooke millions of the fiſhes, and brought them to the land, ſome in their kirchers and aprons, and other ſome in their capps hatts, and ſuch thinges as they had for the cauſe. Thus farre haue you heard ſome piece of the matter, touching the ayre and ſecrets from thence ſent to the world, (as God by his goodneſſe plea<g ref="char:EOLhyphen"/>ſeth to deale) And nowe ſhall yee haue rehearſed ſomewhat of the Earthquakes, and other worldly Wonders that many times haue happened, and hath bredde great harmes and no little wonder.</p>
+            <p>Now firſt and formoſt to ſome wonders of the world, in <hi>Titus Li<g ref="char:EOLhyphen"/>uius</hi> you ſhall read, that before great warres burſt out, betweene the <hi>Romans</hi> and <hi>Macedonians,</hi> in many places and regions were ſome ſtrange thinges moſt fearefull and lamentable to behold: For in the countrey of <hi>Lucanie</hi> the heauens ſeemed as they had béene all on a flaming fire, and in another countrey farre from that, at high noone the Sun became all ouer redde as ſcarlet, and at midnight in the Temple of <hi>Iuno</hi> was heard a great alarum, and horrible cry, in diuers maners and fearefull ſortes, yea and in many places ſundrie beaſtes of diuers ſhapes very monſtrous were brought into the world, and at <hi>Salonne</hi> a child was borne that the people knewe not whether it were a man or a woman, and likewiſe in <hi>Sauoye</hi> a pigge was farryed that had the head of a man, and againe in <hi>Lucanie</hi> was a horſe ſeene that had fiue féete, and as <hi>Cauies</hi> was a man that had his eares ſtanding in the middle of his browes, whereon was com<g ref="char:EOLhyphen"/>maunded (when the bookes of <hi>Sibell</hi> had beene ſeene) that chaſt wo<g ref="char:EOLhyphen"/>men ſhould in murning ſort ſing a certayne heauie ſong, thrée times in a weeke through the citie of <hi>Rome,</hi> all which ceremonies the con<g ref="char:EOLhyphen"/>ſull <hi>Aurellius</hi> did curiouſly accompliſh, King <hi>Philip</hi> of <hi>Macedone</hi> anon after theſe ſtrange ſights, did beſeige the great citie of <hi>Abydoo,</hi> in which citie the maieſtrates and people, becauſe they would not hap<g ref="char:EOLhyphen"/>pen in <hi>Philips</hi> hand and be made ſlaues, they all iſſued out and fought many times deſperatly, and in the ende burnt all their treaſure, ſet a fire of the Towne, ſlue all their wiues and children, and after all theſe horrible actes, one of them killed another: heere is to be noted (with the reſt of miſeries that fell out) that many euils falls imme<g ref="char:EOLhyphen"/>diatly in thoſe partes where thoſe ſtrange and prodigious ſights and
+<pb facs="tcp:173205:7"/> ſignes are to be ſeene. The <hi>Romans</hi> after this diſcomfited the <hi>Gauls</hi> in which battell was ſlayne fiue thouſand knights, called noble ſoul<g ref="char:EOLhyphen"/>diers, and <hi>Amylkar</hi> the Duke of <hi>Penoyes</hi> and with him three noble Emperors of the <hi>Gaulles</hi> were put to the ſword, with a thirtie and fiue thouſand poore Souldiers: Ye ſhall reade in the 4. chapter of the ſecond decaed, that as <hi>Titus Quincius</hi> was going to leauie an ar<g ref="char:EOLhyphen"/>mie of noble Souldiers (that had beene in <hi>Spaine</hi> and <hi>Affricke</hi>) one brought him newes that by a thunder or miraculous working of the elements, the high way where he ſhould goe, was broken and torne in peices and both the temple of <hi>Ioue</hi> and <hi>Hercules</hi> were ſet on fire, and at <hi>Aretto</hi> the ground for the length of a great diſtance, was ope<g ref="char:EOLhyphen"/>ned and therein was made a deepe caue to the wonder of a great number of people, And at <hi>Aſſneſſe</hi> there was a calfe ſéene with two heades, and a pigge with foure tayles, after which ſights prayer and ſupplications was made to their gods a whole day long without cea<g ref="char:EOLhyphen"/>ſing, and yet great warres and troubels began to be ſet abroch, in many kingdoms, theſe wonders going before al theſe hurly burlies, the fourth decaed the 12. chapter in the Conſull of <hi>Domycius</hi> time, there was an Oxe that ſpake and ſayd in latine <hi>(Roma caue tibi)</hi> af<g ref="char:EOLhyphen"/>ter which wordes pronounced the Oxe was diligently kept, and ſo the riuer of <hi>Tyber</hi> aroſe and did paſſe the bound ſo ſarre, that it ouer<g ref="char:EOLhyphen"/>threwe many houſes and edifyſes, and did very great harme diuers wayes, and through the aboundance of rayne that fell (or other cau<g ref="char:EOLhyphen"/>ſes that pleaſed God) a great rocke fell and ouerwhelmed a number of poore people, and the flouds were ſo high (by the meane of an out<g ref="char:EOLhyphen"/>ragious tempeſt) that they drowned many viilages about <hi>Rome,</hi> vp<g ref="char:EOLhyphen"/>on the which ſtrang ſight (or in a ſmall ſpace after) thrée of the grea<g ref="char:EOLhyphen"/>teſt Emperors of the world dyed moſt vnhappily, and as ſome au<g ref="char:EOLhyphen"/>thors makes mention thoſe Princes tooke their leaue all in one yéer, <hi>Philopomenes, Scypion,</hi> and <hi>Hanniball</hi> was theſe thrée great perſo<g ref="char:EOLhyphen"/>nages: Now to write what warres, troubels, ſeditions, and other calamities hapned in many kingdomes (after theſe terrible tokens and prodigious ſignes) it would weary you with the reading there<g ref="char:EOLhyphen"/>of, and make you but maruell at the mightie workes of God, which aſſuredly comes to paſſe in euery place by his appointment (to ſhew his power) and happens not by the courſe of the heauens, cauſes of the earth, or naturall operations, as many of <hi>Ariſtotels</hi> diſciples affirme and wilfull ſchoolemen by reaſons would prooue, for as God is without beginning, ſo his power is without ending, and his di<g ref="char:EOLhyphen"/>uine
+<pb facs="tcp:173205:8"/> workes and iudgements are as matters that wee ſhould not breake our witts about, and are ſo farre beyond our reach, that we rather ſtand amazed at veiwe of them, then any way ſatiſfyed in the ſearching or ceaſoning of the cauſe of their beginnings, and though at the firſt God gaue the Elements a nature, paſt all the compaſſe of mans baſe knowledge, we neither muſt truſt <hi>Ariſtotle,</hi> nor leane too much to our weakenes and imaginations, for the beginning of his Deitie is as eaſily knowne, as the nature of ſtrange viſions and ſignes in the ayre, that onely are directed by his omnipotent power.</p>
+            <p>Now come we to Earthquakes.</p>
+            <p>In the yéere of the Conſulſhip of <hi>Lucius Marcius</hi> and <hi>Sextus Iuli<g ref="char:EOLhyphen"/>us</hi> there befell a caſe ſo ſtrange at <hi>Modenna,</hi> that the like yet was neuer heard off, as <hi>Plinie</hi> reports he hath found written in the bookes of <hi>Hertuſques,</hi>
+               <note place="margin">A maruell that moun<g ref="char:EOLhyphen"/>tains meet.</note> and among the <hi>Toſcane</hi> Philoſophers: Then happe<g ref="char:EOLhyphen"/>ned ſo terrible an earthquake that two mountaines met together, and ſhooke ſo vehemently the one the other, (ſeparating themſelues as a combate were fought) and méeting with ſuch furie and noyſe, that all the countrey adioyning ſtoode aſtonied at the matter, and when theſe two mountaines had done their ſhaking, and at the in<g ref="char:EOLhyphen"/>ſtant of their firſt remooue there aroſe ſuch a fume of flaming fire from the earth, that it reached to the heauens, the which monſtrous battayle of mountaynes and wonderfull earthquake in thoſe parts, was ſéene of many <hi>Romaine</hi> Knights and Souldiers, and an infi<g ref="char:EOLhyphen"/>nite number of trauellers of the world (than being in the way called <hi>Emylius,</hi> or <hi>via emilia,</hi> who conſidering that pittifull tragidie of time and other matters that fell out, marueiled much and were ſore a<g ref="char:EOLhyphen"/>frayd, for indéede all the granges, tenements, farmes, and houſes that were one any of theſe mountaynes, fell in ſmall pieces, and lit<g ref="char:EOLhyphen"/>tle morſels, ſo that both beaſtes in the fielde, and people in their dwellings, were all vtterly deſtroyed and cleane ouerthrowne, this marueilous chance fell a yéere before the warres of <hi>Sociale,</hi> that was made againſt the <hi>Marſes,</hi> the which warres brought not much leſſe domage to <hi>Italie</hi> (than the warres ciuell, by which diſſen<g ref="char:EOLhyphen"/>tion millions of men were ſlaine or put to ſhame and miſerie, and in the chronicle of <hi>Neroes</hi> rayne is to be found a very prodigious thing, for the laſt yéere of <hi>Neroes</hi> ra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing, a great ground of <hi>Alyue</hi> pertay<g ref="char:EOLhyphen"/>ning to <hi>Vertius Marcellus</hi> (procuror generall to the Emperor <hi>Nero</hi>) was tranſported from his owne proper place with all his trees, and ſet in the common way betwéene the ſoyle it ſtoode on, and another
+<pb facs="tcp:173205:8"/> mans heritage, after which matter the tyrant <hi>Nero</hi> dyed and a great alteration fell in the Empyre, by the trembling of the earth as <hi>Ho<g ref="char:EOLhyphen"/>mer</hi> affirmeth waters did flowe where firme land remayned, and the Seas did retyre from their wonted courſe in another place, by which meanes a great countrey was diſcouered before ouer flowed with water, as men might ſée towardes the mount <hi>Siſcelo,</hi> in the fields and néere the hauen of <hi>Larta,</hi> or <hi>Ambracia,</hi> a plot of ground ten long myles from the borders of the Sea, that in times paſt ſtood drow<g ref="char:EOLhyphen"/>ned and vndiſcouered, and at <hi>Athens</hi> likewiſe the ſea is retyred from the hauen (that they call <hi>Piree</hi>) about fiue myles of length, and at <hi>E<g ref="char:EOLhyphen"/>pheſon</hi> the Sea did anciently beate againſt the temple of <hi>Diana,</hi> but now the Sea is a great way reculed from that temple, and if the hi<g ref="char:EOLhyphen"/>ſtorie of <hi>Herodote</hi> be true, aunciently the waues of the Sea went o<g ref="char:EOLhyphen"/>uer the citie of <hi>Memphys</hi> in Egypt, running to the mountaynes of <hi>Ethiopie,</hi> and the plaines of <hi>Arabie,</hi> in like ſorte the Sea did beate a<g ref="char:EOLhyphen"/>gainſt <hi>Illion</hi> called <hi>Troy,</hi> and couered all the whole countrey of <hi>Ten<g ref="char:EOLhyphen"/>tertanie,</hi> and all the other fields wher paſſeth the riuer <hi>Meander,</hi> theſe proofes and paſſages ſufficiently ſheweth, that the <hi>tremblings of the earth</hi> are as much and more to be feared then the cracking of a rotten houſe, or the fall of a mightie caſtell that ſtands on féeble proppes, and totters at euery blaſt of winde: Further it is ſayde, in the Iſles of <hi>Pithecuſes</hi> by the vehemencie of an earthquake, a great towne did ſincke, and by another earthquake againe, a great lake was made in the ſame Ilands, as yet remayning a wonder to the world, read the foure and ninth of <hi>Plinie,</hi> and ye ſhall ſée a number of other mat<g ref="char:EOLhyphen"/>ters, as myraculous as any yet rehearſed.</p>
+            <p>The diuine <hi>Plato</hi> reports, that aunciently there was a mightie and a great countrey, where now is the Sea <hi>Atlantique,</hi> and in the Sea <hi>Mediterranie</hi> a marueilous deale of land is ſunke and couered with water, yea to the very gulfe of <hi>Ambracia,</hi> which is in <hi>Acarna<g ref="char:EOLhyphen"/>nie</hi> which commeth out of <hi>Corinth,</hi> the ſame hauing one member or legge vpon Gréece, and how many countries in <hi>Europe Azia</hi> and o<g ref="char:EOLhyphen"/>ther partes, are deſtroyed by the Sea and originall cauſe of earth<g ref="char:EOLhyphen"/>quakes, I hope now néedeth not to make particular report off, albeit ſome notorious thinges may be (by the ſufferance of learned men that readeth) touched and ſomewhat treated off, vnder fauour as farre as ſerueth to my purpoſe. There was an earthquake in the Emperour <hi>Tiberius</hi> time, ſo wonderfull that it ouerthrewe twelue townes in <hi>Aſia</hi> all in one night, and during the warres of <hi>Carthage</hi> it
+<pb facs="tcp:173205:9"/> was reported to the Senate of <hi>Rome,</hi> that within one yéere was ſeauen and thirtie earthquakes, but now behold what followed the very ſelfe ſame ſeaſon, <hi>Hanniball</hi> diſcomfited the <hi>Romans</hi> néere the lake of <hi>Perouſe,</hi> and yet neither of both the armies (which was a moſt maruell) hard nor felt no péece of the earthquakes, albeit the earth trembled ſo often, as it was to bee ſuppoſed that the whole world would haue ſodainly béene ouerwhelmed: Thus you ſee the earth which is the mother of mankind (though ſhe ſéemes ſenceleſſe) is mooued by the almightie to tremble and ſhake, when man is to<g ref="char:EOLhyphen"/>ward deſtruction, and commonly no bloudy battayls haue happe<g ref="char:EOLhyphen"/>ned but an earthquake or commet went before, the one to make man looke vpward to the heauens, where he deſires to dwell, and the o<g ref="char:EOLhyphen"/>ther to warne him and plainely ſhew him, he muſt fall to the earth and aſhes, from whence all fleſh did riſe and tooke his originall, and ſurely it is a manifeſt ſigne of Gods fauour when that both heauen and earth (and all other thinges wee can beholde) are occupyed and working away by ſome miſterie to call vs to repentance, and make the pilgrime prepare himſelfe to be gon from the vaile of miſerie, and miſerable dungeon of diſquietnes, but now I pray you regard what <hi>Plinie</hi> ſayeth (he being but an infidell in reſpect of a Chriſtian) nowe truely ſayth he <hi>The trembling of the earth</hi> neuer is the cauſe of one euil alone, nor all the danger is not onely in the trembling: for it alwayes preſageth ſome miſhappe and <hi>Des aſter</hi> to come, and likewiſe ſaith he there was neuer ſéene earthquake in the citie of <hi>Rome,</hi> but ſome great miſchance fell out ſuddenly after, if an infidell beleeued ſo and hath ſet downe his opinion in print, for an infallible rule and ground to builde vpon, me thinke Chriſtians ſhould confeſſe without any difficultie, that the naturall cauſe of earthquakes is a ſupernaturall matter, which neither agitations nor exalations can command by their force, to mooue ſo great a maſſe of earth as an earthquake ſhaketh, though <hi>Ariſtotle</hi> and ſundry others makes a great argument on the like pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>If all earthquakes, commetts in the ayre, ſignes and wonders in the ſkyes, and many other notorious maruells, riſe on a naturall cauſe, it may be aſked who ſent the ſtarre to be ſéene at Chriſts birth, and who cauſed the whole world to ſhake at his death, if nature by the courſe of her operation, worketh ſuch wonders, then belike that fearefull earthquake had happened though Chriſt had not dyed, and at the ſame houre and inſtant though Chriſt had not ſuffered for man,
+<pb facs="tcp:173205:9"/> the earthquake would not haue fayled the ordinarie ſeaſon and wor<g ref="char:EOLhyphen"/>king, that ſprings on exalations, agitations, and ſuch like matter, <hi>Ariſtotle</hi> for all his ſuperexcellent learning, knew no more then per<g ref="char:EOLhyphen"/>tayned to the iudgement of a man, and though all the déepe wiſe men of the world (and the world it ſelfe) were poſſeſt with his bookes and arguments, it paſſeth all reaſon to beleeue that the earth can ſhake, and the whole world trembling without his will and pleaſure that made the day and night, and knoweth all thinges before they come to paſſe, and is both the mouer and maker of heauen and earth: And ſurely I beléeue that neither all the Diuels in hell, nor all the Angels in heauen, nor all the coniurers and ſorcerers in the world, haue no power (of themſelues) to turne vp ſide downe a little moun<g ref="char:EOLhyphen"/>taine, much leſſe haue they power to turne mightie kingdomes into the Seas, and make the maine Sea dry land, no doubt but the winds, waters, ayre, fire, and earth (working together) haue an excellent force and nature to woorke their effects, and bring to paſſe thinges both marueilous and paſt mans cunning to compaſſe, but to ſhewe armies and battayls in the ſkies, commetts in the cloudes, force the heauens to rayne bloud, compell the heauie molde to remooue, and ſhake the vniuerſall world is a diuiner matter to ſpeake off, and de<g ref="char:EOLhyphen"/>ſerueth in a moſt high manner to bee handled, and more reuerenced regarded and feared when it happeneth: For ſuch ſtrange ſights are the very meſſengers that the great iudge ſendeth before his com<g ref="char:EOLhyphen"/>ming, and the only warnings the world (in the latter dayes) ſhall haue before this olde earth ſhall be conſumed, and new <hi>Ieruſalem</hi> ſhall be made, nature can not of her ſelfe make ſweete apels ſowre, ſowre apels ſweete, change and exchange the naturall kind of trées or other fruite, as in <hi>Lyche</hi> was ſeene a towne of <hi>Surrie,</hi> at the ariuing of king <hi>Xerxes</hi> in thoſe partes, read <hi>Ariſtander</hi> and the commentaries of <hi>Cai<g ref="char:EOLhyphen"/>us Epidius,</hi> and they will ſhew you thinges to be wondred at of trées (if it be true that they affirme) they ſay trees did ſpeake, which na<g ref="char:EOLhyphen"/>ture denies and reaſon can not conceiue, but trées ſtones and all other ſenceleſſe thinges, God may make ſpeake, aſwell as he made <hi>Balams</hi> Aſſe reprooue his owne maiſter, and the Oxe in <hi>Rame</hi> cry <hi>Roma ca<g ref="char:EOLhyphen"/>ue tibi. Plinie</hi> in his naturals ſayth, that it was reported of the <hi>Ro<g ref="char:EOLhyphen"/>mains,</hi> that in the territorie of <hi>Cuma</hi> a cittie of <hi>Ionie,</hi> a great and a high tree did ſincke ſo lowe into the earth, that nothing but a fewe ſmall ſprayes on the very toppe thereof was to be ſeene, but what thinke you followed after, marry many miſchiefes, terrible bloud<g ref="char:EOLhyphen"/>ſhedde,
+<pb facs="tcp:173205:10"/> wicked conſpiracies, and open diſſentions, for the ciuill war betweene <hi>Pompeie</hi> and <hi>Iulius Caeſar</hi> began at that preſent, and ended not God knowes a long while after, the <hi>Romaines</hi> to knowe what the ſincking of that tree did ſignifie, did looke in their bookes of deuina<g ref="char:EOLhyphen"/>tions, and their they found that this wonder preſaged a matter of greate conſequence, threatned the ſlaughter of multitudes of men: What néedes nowe to ſearch or rehearſe prophane hiſtories, for the weight and worthineſſe of a true argument, touching earth<g ref="char:EOLhyphen"/>quakes, wonders in the ayre, and warnings of the world, that ma<g ref="char:EOLhyphen"/>nifeſtly ſetteth foorth the myraculous doings and maieſtie of the al<g ref="char:EOLhyphen"/>mighty, for you néede not to goe any further for a ready reſolution of theſe poyntes, but to the holy ſcripture, which plainely declares that in the latter dayes you ſhould ſee ſignes in the ayre, wonders in the world, the ſtarres fall from heauen, the Sunne and Moone looſe their light, and to be ſhort and vſe the pearcing and weighty words of the Goſpell, we are told of warres, earthquakes, deſolation, faintnes of faith, and warned if God did not ſhorten thoſe dayes for the choſens ſake, the very elect might be diſſaued and but a fewe ſhould be ſaued, ſo many opinions and errours would ariſe (and iniquitie would be ſo great) that it would ſtriue for the victorie, and faith would waxe ſo cold, that God and all goodnes ſhould in a maner be forgotten, where<g ref="char:EOLhyphen"/>fore the maker of heauen and earth reuiues our dead memories with earthquakes and wonders (not engendered and produced by naturall cauſes) becauſe that omnipotent Lord doth what he liſteth, both in the elements and earth, compelling them to worke his will as their courſes be ſet by the infallible order and ordinance of his maieſtie, that doth with his owne workmanſhip what ſéemeth beſt in his ſight, Now I pray you vnder patience and fauour demaunded, ſhall the lit<g ref="char:EOLhyphen"/>tle ſtarre (lately ſéene in Iuly laſt) be forgotten, as vnfitte to be rec<g ref="char:EOLhyphen"/>koned or noted (for the ſmaleneſſe of it) among the wonders of the ayre, indeede the incredulitie of the world and hardnes of ſtonie hear<g ref="char:EOLhyphen"/>ted men, beléeues as little as they may, eyther of the forewarnings of God or diuine preachings of good men, who daily in ſwéeteſt ma<g ref="char:EOLhyphen"/>ner openeth the ſcriptures vnto vs, and ſhewes familiar examples out of the old Teſtament and the new, that might mooue millions to repentance, and frame a fraternall conuerſion among the people, but thouſandes growe ſo ſtubborne and ſtifnecked that they neither will ſtoupe to conſider what is ſpoken, nor bend their mindes to the amendment of life, but runs all on head (without looking backe) into
+<pb facs="tcp:173205:10"/> errours and vaine imaginations, thinking that wonder or that wor<g ref="char:EOLhyphen"/>thy matter will blowe ouer, and ſtands in feare of nothing, no ſcarce of a terrible blaſt of thunder, that often teares men beaſtes and trées in pieces, and ſtriketh down flat to the ground high towres and ſtate<g ref="char:EOLhyphen"/>ly buildings: All theſe ſtrange accidents rehearſed, and ten thouſand times as many more fearefull matters, if they might be ſet downe (as a ſpectacle to our ſight) can neuer change nor alter the common courſe of our diſſolute maners, and incredulous mindes.</p>
+            <p>A wonder laſtes but nine dayes, a ſigne in the ayre is but won<g ref="char:EOLhyphen"/>dred at, an earthquake is called but a common cuſtome of many cau<g ref="char:EOLhyphen"/>ſes, a blazing ſtarre makes people but babble a while, a mounſter in beaſt or man brings no great maruels, a ſommer winter like is but wayed as wicked world pleaſeth, an vnnaturall wett out of ſeaſon is named but a foule weather: a tempeſt or bluſtring ſtormes is quick<g ref="char:EOLhyphen"/>ly quieted with a calme: a dearth of graine and all ſuſtentation of man, tries but our patience: and ſeldome brings repentance, and the plague of the ſworde warre and peſtilence is ſodainly forgotten: ſo careleſſe is our life, and ſo full of incredulitie are our hartes, where<g ref="char:EOLhyphen"/>fore neither excellent men in a pulpit, true writers of good bookes, ſetting out of auncient hiſtories, nor ſhewing of fearefull examples, ſéemes to doe no good, neither to the benifite of the body nor bleſſed<g ref="char:EOLhyphen"/>neſſe of the ſoule: Than of neceſſitie all muſt be committed to Gods grace and goodneſſe, whoſe mercies muſt vphold vs, or elſe the wonders of the ayre, the trembling of the earth, and the incredulitie of the world will increaſe the wrath of the almightie, and bring a badde world to confuſion.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:173205:11"/>
+            <head>Warnings to the world.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the forenoone doctor <hi>Rogers</hi> being in a matter to the rebuke of ſome diſorders, hee ſawe ſodainly fall a great darkeneſſe ouer all the Church, (a cracke of thunder fol<g ref="char:EOLhyphen"/>lowing the darkenes) whereby all the people were not onely amazed, but likewiſe ſtricken downe in a great terrour and trembling, and at their fall were marked vnder their clothes with bloudy ſignes and ſhewes of Gods wrath, moſt wonderfull to be<g ref="char:EOLhyphen"/>hold, becauſe their garments were kept whole and ſound, at which ſeaſon and feare ſome ſeemed dead, and fell ſo ſicke on the ſodaine, that long after they recouered not, yet the preacher not a whit ſtric<g ref="char:EOLhyphen"/>ken nor none of his folkes hurt, notwithſtanding (as doctor <hi>Rogers</hi> told me) many of the people at that inſtant preſent were ſtricken downe, but howſoeuer thinges fell out by Gods viſitation and ſuffe<g ref="char:EOLhyphen"/>rance, the mightie maieſtie of the Lord was myraculouſly ſéene and vnderſtoode in this fearefull action: The biſhop yet moſt ſtoutely preached in the after noone, when no ſuch wonders were to be noted at that inſtant, but incredulous people cares for no wonders, for the like of this was at <hi>Bongie</hi> a pariſh church in Northfolke, I ſaw it my ſelfe and beheld the clocke houſe, belfrie, and walls torne in pieces, euen as a mans hand had bin thruſt through a great péece of warme waxe, and another church neighbour to this at the very ſame ſeaſon was viſited with ſome ſigne of Gods diſpleaſure, for in ſome one of them or both, were ſundry people ſlaine, other churches ſince that time, as Norwich of late, and <hi>Born</hi> in Huntington ſhire, haue wit<g ref="char:EOLhyphen"/>neſſed to the world that Gods anger on churches, hath often beene marueilouſly ſéen, which may make many men wonder at the ſtrang<g ref="char:EOLhyphen"/>neſſe thereof, namely for that in churches and places of prayer, God
+<pb facs="tcp:173205:11"/> permits and openly ſuffers his people to periſh, and chiefely when they are at ſeruice, where men ought rather to be mindfull of their offences, and frailtie of life, then beare in breaſt any motion that may purchaſe Gods diſpleaſure: But ſome doe iudg (and that a great number) the vileſt ſorte that honours no vertue, makes or would make the houſe of prayer, a denne of théeues, and ſo foorth as Chriſt himſelfe found fault withall, <hi>Solomon</hi> and no other was ordayned to build the Temple of the Lord, and when it was finiſhed, <hi>Sollo<g ref="char:EOLhyphen"/>mons</hi> owne wordes and prayer in that Temple, is a moſt diuine note and wonder to looke vpon, honour and admyre, wel well I dare ſay no more, but God is marueilous angrie at ſome matters, or men pertayning to the Church, when in that holy houſe he ſendeth ſuch myracles, and ſendeth ſuch warnings: I referre the iudgement thereof to graue Fathers and Diuine preachers: So bringing to an ende the ſmall matter of this booke, that hath treated of <hi>Won<g ref="char:EOLhyphen"/>ders and ſignes in the ayre, Trembling and ſhaking of the earth, and warnings from God ſent before the iudgement day:</hi> which mightie matters becauſe they paſſe my reach to iudge off, and the common ſkill of men to diſcuſſe and deſide, I leaue vnto the almightie that daily workes wonders, ſendes warnings, ſhewes myracles, and neuer reſts from making men knowe his dutie, towardes the admi<g ref="char:EOLhyphen"/>ring of him and his workes, which the more men write off, thinke on, or diſpute in, the more farther they run headlong to heapes of errours follies and vnpardonable offences, where<g ref="char:EOLhyphen"/>fore auoyding ouer much boldnes and preſumpti<g ref="char:EOLhyphen"/>on of entering too farre in theſe cauſes, I conclude and commit all to his mercies.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:173205:12"/>
+            <head>The Lords prayer and creede in verſe, with <hi>the ten Commandements.</hi>
+            </head>
+            <l>OVr Father which art in perſons three,</l>
+            <l>Thy mighty name moſt hollowed be:</l>
+            <l>Thy kingdome come, done be thy will,</l>
+            <l>As well on earth, as ti's in heauen ſtill:</l>
+            <l>Giue vs this day, our daily bread,</l>
+            <l>(With which our bodies, and ſoules are fedde:)</l>
+            <l>Forgiue vs our treſpaſſe euery way,</l>
+            <l>As we forgiue them that ſeeke our decay:</l>
+            <l>And lead vs not into temptation,</l>
+            <l>(But for Chriſts ſake our onely ſaluation:)</l>
+            <l>Deliuer vs from euils all, That makes vs from thy fauour fall:</l>
+            <l>For kingdom glory and al is thine, For euer and euer (by powr diuine.)</l>
+            <div type="creed">
+               <head>The Creede.</head>
+               <l>I Beleeue in God the Father of all might,</l>
+               <l>Made heauen and earth, ſent darkenes and light:</l>
+               <l>And in Ieſus Chriſt, his ſonne and our Lord,</l>
+               <l>Conceiued by the holy Ghoſt (as ſcriptures doe record:)</l>
+               <l>Of the virgine Mary this babe was borne,</l>
+               <l>To redeeme man that elſe had beene forlorne:</l>
+               <l>Suffred vnder Ponce Pilate, crucified and layd in graue,</l>
+               <l>Deſcended into hell (the elect ſoules to ſaue:)</l>
+               <l>Roſe the third day, ſuch hope I haue,</l>
+               <l>Was ſeene aliue here, aſcended into heauen than,</l>
+               <l>Sits on Gods right hand a mediatour for man:</l>
+               <l>From thence ſhall he come, to iudge both quicke and dead,</l>
+               <l>Amyd the cloudes to ſhew his great Godhead:</l>
+               <l>I beleeue in the infinite holy Ghoſt,</l>
+               <l>The Catholike Church that honors God moſt:</l>
+               <l>The communion of Saintes, the forgiuenes of ſinnes,</l>
+               <l>The reſurrection of the body, where gladnes begins:</l>
+               <l>And in the life euerlaſting I truſt,</l>
+               <l>To riſe at the laſt day with Iob out of duſt.</l>
+            </div>
+            <div type="commandments">
+               <head>The ten Commandements.</head>
+               <l>GOd ſpake theſe words, the Lord thy God I am,</l>
+               <l>That brought thee home, when thou from Egypt came:</l>
+               <l>I ſet thee free from bondage euery way,</l>
+               <l>Becauſe thou ſhalt my holy will obay.</l>
+               <l>Thou ſhalt not haue any other Gods but me,</l>
+               <l>Thou ſhalt not ſerue ſtrange Gods in any degree:</l>
+               <pb facs="tcp:173205:12"/>
+               <l>Vnto thy ſelfe, no grauen image make,</l>
+               <l>Like any thing, that is in heauen aboue,</l>
+               <l>Nor earth belowe, thy pleaſure ſo to take:</l>
+               <l>Nor vnderneath the earth, my wrath to mooue:</l>
+               <l>Nor worſhip them by any kind of meane,</l>
+               <l>For I thy God loues people pure and cleane.</l>
+               <l>Thou ſhalt not bowe downe to any image wrought,</l>
+               <l>Thy onely Lord a iealous God he is,</l>
+               <l>That plagues the ſinnes of people vaine and nought:</l>
+               <l>Yea to the third, and fourth generation, note well this,</l>
+               <l>I viſite the Sonnes, and Fathers of them all,</l>
+               <l>That doe hate me, or to idolatry fall:</l>
+               <l>And mercies ſhewes, to thouſands when I will,</l>
+               <l>That loues me, and keepes my commandements ſtill.</l>
+               <l>Thou ſhalt not take, thy great Gods name in vaine,</l>
+               <l>He gilty is, that will mine honour ſtaine.</l>
+               <l>The ſabboth day, looke that thou keepe in feare,</l>
+               <l>Sixe dayes thou haſt, to worke, to trudge, and toyle,</l>
+               <l>The ſeuenth is the Sabboth euery where:</l>
+               <l>Than thou ſhalt not thy hands with labour foyle,</l>
+               <l>Thou and thy ſonne, thy daughter, mayd, and man,</l>
+               <l>That ſerueth thee, ſhall doe no labour than:</l>
+               <l>Thy cattell and, the ſtranger in thy gate,</l>
+               <l>Shall doe no worke, that day early nor late:</l>
+               <l>For in ſixe dayes, thy Lord that all hath bleſt,</l>
+               <l>Made heauen and earth, and in the ſeuenth did reſt.</l>
+               <l>Thou ſhalt honour, thy father and mother well,</l>
+               <l>(That long aliue, on earth ſafe thou maiſt dwell.)</l>
+               <l>Thou ſhalt not kill, for bloud craues bloud, or vengeance ſtill.</l>
+               <l>Thou ſhalt not breake, true wedlockes band no way.</l>
+               <l>That knot and ſtaffe, is an honourable ſtay.</l>
+               <l>Thou ſhalt not ſteale, for theeues robe Prince and common weale.</l>
+               <l>Thou ſhalt not beare, falſe witnes in any ſorte,</l>
+               <l>For that may take, from iuſtice good report.</l>
+               <l>Thou ſhalt not wiſh, thy neighbors houſe nor wife,</l>
+               <l>His man ſeruant, nor mayden for thy life,</l>
+               <l>His Oxe, his Aſſe, nor nothing that is his,</l>
+               <l>Liue with thine owne, as the Lords pleaſure is.</l>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:173205:13"/>
+            <head>Verſes fitte for euery one to knowe <hi>and confeſſe.</hi>
+            </head>
+            <l>TO bed I goe from you, God knowes when I ſhall riſe,</l>
+            <l>Nights darknes bids the day adue, till morning glads the ſkies:</l>
+            <l>The bed preſents the graue, in ſhrowding ſheetes we lie,</l>
+            <l>The flattring boulſter that we haue, is ſtuft to pleaſe the eye:</l>
+            <l>The blankets are greene graſſe, that growes when we are gone,</l>
+            <l>The pillowes with ſun beames do paſſe, for pilgrimes to looke on:</l>
+            <l>The couerlet is care, that clothes vs whilſt we liue,</l>
+            <l>The bed ſtaues gentill ſcourges are, that doth vs warnings giue:</l>
+            <l>The bedſtocke and the tycke, and all belongs to bed,</l>
+            <l>Is but vaine pleaſures that we like, to pleaſe a wanton head:</l>
+            <l>Sleepe is of death the ſhape, to ſhewe mans ſubſtance ſmall,</l>
+            <l>As earth doth for the body gape, ſo death will haue vs all:</l>
+            <l>Then liue as thou ſhouldſt die, when God ſhall pleaſe to ſtricke,</l>
+            <l>The graue wherein our bodies lie, and bed are both alike:</l>
+            <l>But ſure when ſences ſleepe, from labour toyle and paine,</l>
+            <l>The ſoule for feare doe wayle and weepe, till man awake againe:</l>
+            <l>Death waites ſo hard at hand, when ſoundeſt ſleepe we haue,</l>
+            <l>That all our ſtate doth doubtfull ſtand, till body be in graue:</l>
+            <l>Man ſhortens his owne dayes, and ſo doth weare and waſt,</l>
+            <l>By wilfull ſteps and wicked wayes, that cuts of life in haſt:</l>
+            <l>Sleepe is a ſteppe to death, and time that weares full faſt,</l>
+            <l>Life waites no longer on the breath, then bloud and health doth laſt:</l>
+            <l>When candell waxeth dimme, or neere the ſocket drawes,</l>
+            <l>Mans goodly gliſtring glory trimme, declines by kindly cauſe:</l>
+            <l>Then aged ſyres like me, ſmall tarrying haue you heere,</l>
+            <l>When faulters ſhall examind be, they buy their folly deere:</l>
+            <l>In bed that brings no reſt, thoſe ſtrange euents we find,</l>
+            <l>When roling vp and downe the breſt, ſad thoughts lodes heauy mind:</l>
+            <l>The bed breedes dreames and toyes, that idell fancie brings,</l>
+            <l>More vaine than raſh are earthly ioyes, that hinders heauenly things:</l>
+            <l>The ſoundeſt ſleepe of all, in Abrahams boſome is,</l>
+            <l>Heere ioy is mixt with bitter gall, and there gall turnes to bliſſe:</l>
+            <l>To bed goe in theſe bounds, as babes in cloutes are layd,</l>
+            <l>To riſe with Chriſt (when trumpet ſounds) who hath our ranſome paid.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
